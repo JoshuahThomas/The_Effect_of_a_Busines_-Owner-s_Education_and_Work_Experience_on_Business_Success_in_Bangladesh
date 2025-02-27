@@ -22,7 +22,7 @@ experience.
 
 - Control and Instrumental Variables
 ![Screenshot 2025-02-28 at 5 04 10 AM](https://github.com/user-attachments/assets/c4b737e8-b86c-4b87-a0f2-d55b3e86df6b)
-- Firm sizes (Figure 2) also vary substantially, from 0 to 2,330 workers, with an
+- Firm sizes also vary substantially, from 0 to 2,330 workers, with an
 average of 13 workers, indicating a predominance of relatively small firms in the dataset.
 
 # Methodology
